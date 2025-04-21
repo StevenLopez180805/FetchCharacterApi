@@ -1,0 +1,10 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+.card-characters{
+    width: 100% !important;
+}
+#charactersContainer{
+    max-height: 80vh !important;
+}
+.text-break-anywhere{
+    overflow-wrap: anywhere !important;
+}
